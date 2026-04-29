@@ -129,14 +129,6 @@ O sistema já vem com dois motores pré-cadastrados para demonstração:
 
 ---
 
-## 🔮 Próximas Sprints
-
-- [ ] Sprint 2 — Integração com modelo de IA
-- [ ] Sprint 3 — Autenticação e controle de acesso (RBAC)
-- [ ] Sprint 4 — Deploy em produção
-
----
-
 ## 👨‍💻 Autores
 
 Nicolas Lemos Ribeiro	RM 553273
@@ -144,5 +136,6 @@ Ricardo de Paiva Melo	RM 565522
 Luís Fernando de Oliveira Salgado	RM 561401
 Pedro Leal Murad	RM 565460
 Murilo Benhossi	RM 562358
+<img width="442" height="133" alt="image" src="https://github.com/user-attachments/assets/195b2e63-93af-48a7-a520-21ff9814d6b3" />
 
 — FIAP · Front End & Mobile Development
